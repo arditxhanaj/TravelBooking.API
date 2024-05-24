@@ -1,20 +1,20 @@
 # Travel Bookings WEB Api with ASP.NET Core
 
-Per ti bere run projektin ju duhen:
+Për të bërë run projektin ju duhen:
 
 [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
 [.NET Framework 4.7.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net471)
 
 
-Beni run ne cmd tuaj:
+Në cmd tuaj bëni run:
 
 
 ```
 dotnet run
 ```
 
- Me pas hapni dokumentimin ne Swagger per te pare request-et e API:
+ Me pas hapni dokumentimin në Swagger për të parë request-et e API:
  
  http://localhost:5253/swagger/index.html
 
