@@ -1,4 +1,4 @@
-# Travel Bookings WEB Api with ASP.NET Core
+# Travel Booking WEB Api with ASP.NET Core
 
 Për të bërë run projektin ju duhen:
 
